@@ -21,7 +21,7 @@ This Streamlit app allows users to upload an image of sheet stacks and count the
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/sheet-stack-counter.git
+git clone [https://github.com/yourusername/sheet-stack-counter.git](https://github.com/VaibhavRamrakhyani/Stack-Sheet-Counter-App.git)
 cd sheet-stack-counter
 ```
 
