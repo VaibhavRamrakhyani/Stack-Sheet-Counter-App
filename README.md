@@ -1,7 +1,4 @@
-
-
-
-
+# Sheet Stack Counter App
 ```markdown
 # Sheet Stack Counter App
 
@@ -93,5 +90,5 @@ streamlit run app.py
 - **Usage**: Explains how to run the app and use it.
 - **Image Editing Options**: Details the available image editing options.
 - **How It Works**: Summarizes the workflow of the image processing and sheet counting.
-```
+
 
